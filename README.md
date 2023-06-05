@@ -1,8 +1,8 @@
-# Vagarnt
+# Vagrant
 ---
---vagrant-- is an open source tool that simplifies the creation and management of virtual machines (VMs) for development
+**vagrant** is an open source tool that simplifies the creation and management of virtual machines (VMs) for development
  environments. it was created by **Mitchell Hashimoto** in 2010. [link](https://www.vagrantup.com/)
---Virtual machine-- is a software that allows running multiple operating systems on a single physical machine. [link](https://en.wikipedia.org/wiki/Virtual_machine)
+**Virtual machine** is a software that allows running multiple operating systems on a single physical machine. [link](https://en.wikipedia.org/wiki/Virtual_machine)
 # How to install
 ---
 1. Install Vagrant on your machine.
